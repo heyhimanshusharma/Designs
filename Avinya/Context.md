@@ -1,0 +1,2 @@
+We started a club called "Cult for Code", (not my idea) for like minded people to come together and build projects. This respository contains my design for the outreach of the club. It was later changed to "Avinya"
+meaning innovation. We grabbed a funding from stackOS startuo to build their web3 and blockchain based labs in our college. Due to lack of co-ordination and inconsistencies we failed miserably and had to shut it down.
